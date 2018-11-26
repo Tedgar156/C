@@ -1,0 +1,278 @@
+﻿生成启动时间为 2017/6/13 23:06:01。
+     1>项目“F:\vs\projetct\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(102): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(96): warning C4101: “C”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(144): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(149): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(155): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(175): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(191): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(253): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(334): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(338): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(375): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(378): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(393): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(399): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(403): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(322): warning C4101: “b”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(322): warning C4101: “k”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(449): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(452): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(444): warning C4101: “staraddress”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(556): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(587): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(593): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(624): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(627): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(630): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(632): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(635): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(639): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(672): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(693): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(698): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(709): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(722): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(735): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(770): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(775): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(781): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(791): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(798): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(801): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(804): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(806): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(809): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(812): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(816): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(824): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(856): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(859): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(860): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(862): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(863): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(874): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(895): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(655): warning C4101: “clas”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(655): warning C4101: “flight”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(655): warning C4101: “placee”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(917): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(920): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(940): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(950): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(956): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(965): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(975): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(977): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(986): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(988): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(998): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1004): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1013): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1022): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1024): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1035): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1037): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1048): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(909): warning C4101: “name”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(914): warning C4101: “j”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(914): warning C4101: “o”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1059): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1095): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1142): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1153): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1159): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1165): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1183): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1213): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1254): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1259): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1298): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1306): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1310): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1319): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1370): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1374): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1376): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1379): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1395): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1398): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1403): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1406): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1410): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1412): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1421): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1425): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1440): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1453): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1461): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1351): warning C4101: “wight”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1484): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1487): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1490): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1493): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1495): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1497): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1499): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1502): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1507): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1515): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1517): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1522): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1525): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1528): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1537): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1543): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1476): warning C4101: “s3”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1569): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1590): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1591): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1598): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1599): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1624): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1660): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1672): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1683): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(1702): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication6\consoleapplication6\源.cpp(130): warning C4715: “login”: 不是所有的控件路径都返回值
+       Link:
+         F:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs\projetct\ConsoleApplication6\Debug\ConsoleApplication6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\vs\projetct\ConsoleApplication6\Debug\ConsoleApplication6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs\projetct\ConsoleApplication6\Debug\ConsoleApplication6.lib" /MACHINE:X86 "Debug\源.obj"
+         ConsoleApplication6.vcxproj -> F:\vs\projetct\ConsoleApplication6\Debug\ConsoleApplication6.exe
+     1>已完成生成项目“F:\vs\projetct\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.62

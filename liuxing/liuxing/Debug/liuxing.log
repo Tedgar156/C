@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/4/9 23:12:49。
+     1>项目“D:\vs\projetct\liuxing\liuxing\liuxing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\vs\projetct\liuxing\liuxing\源.cpp(51): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“const char [21]”转换为“LPCWSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>d:\vs\projetct\liuxing\liuxing\源.cpp(140): error C2665: “setfont”: 4 个重载中没有一个可以转换所有参数类型
+                 d:\vs\vc\atlmfc\include\graphics.h(78): 可能是“void setfont(int,int,LPCTSTR)”
+                 尝试匹配参数列表“(int, int, const char [5])”时
+     1>已完成生成项目“D:\vs\projetct\liuxing\liuxing\liuxing.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.16

@@ -1,0 +1,159 @@
+﻿生成启动时间为 2017/6/14 16:03:49。
+     1>项目“F:\vs\projetct\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(122): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(123): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(135): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(136): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(148): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(161): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(174): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(202): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(241): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(243): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(285): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(304): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(324): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(334): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(336): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(347): warning C4013: “getch”未定义；假设外部返回 int
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(352): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(371): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(457): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(489): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(491): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(453): warning C4101: “p”: 未引用的局部变量
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(569): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(591): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(614): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(639): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(666): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(671): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(672): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(673): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(674): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(675): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(676): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(677): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(678): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(679): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(680): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(681): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(682): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(683): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(684): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(685): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(686): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(687): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(688): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(689): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(690): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(820): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(822): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(879): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(881): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(882): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(883): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(890): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(914): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(930): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(931): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(950): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(966): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(967): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1001): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1023): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1045): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1054): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1055): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1061): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1062): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1083): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1085): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\consoleapplication7\consoleapplication7\源.c(1087): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+       Link:
+         F:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs\projetct\ConsoleApplication7\Debug\ConsoleApplication7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\vs\projetct\ConsoleApplication7\Debug\ConsoleApplication7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs\projetct\ConsoleApplication7\Debug\ConsoleApplication7.lib" /MACHINE:X86 "Debug\源.obj"
+         ConsoleApplication7.vcxproj -> F:\vs\projetct\ConsoleApplication7\Debug\ConsoleApplication7.exe
+     1>已完成生成项目“F:\vs\projetct\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.45

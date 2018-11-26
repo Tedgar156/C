@@ -1,0 +1,111 @@
+﻿生成启动时间为 2017/2/18 19:46:22。
+     1>项目“F:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\学生管理系统(结构体数组).vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(144): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(145): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(154): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(155): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(161): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(163): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(165): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(189): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(190): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(199): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(200): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(205): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(206): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(208): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(210): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(239): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(240): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(279): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(280): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(289): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(290): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(321): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(322): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(331): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(332): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(368): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(369): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(447): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(448): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(469): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(478): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(488): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(510): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\vs\vc\include\conio.h(131) : 参见“getch”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(520): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(521): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(530): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(548): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\源.cpp(560): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 f:\vs\vc\include\conio.h(131) : 参见“getch”的声明
+       Link:
+         F:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs\projetct\学生管理系统(结构体数组)\Debug\学生管理系统(结构体数组).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\vs\projetct\学生管理系统(结构体数组)\Debug\学生管理系统(结构体数组).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs\projetct\学生管理系统(结构体数组)\Debug\学生管理系统(结构体数组).lib" /MACHINE:X86 "Debug\源.obj"
+         学生管理系统(结构体数组).vcxproj -> F:\vs\projetct\学生管理系统(结构体数组)\Debug\学生管理系统(结构体数组).exe
+     1>已完成生成项目“F:\vs\projetct\学生管理系统(结构体数组)\学生管理系统(结构体数组)\学生管理系统(结构体数组).vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.68

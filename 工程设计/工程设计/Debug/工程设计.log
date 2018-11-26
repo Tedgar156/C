@@ -1,0 +1,147 @@
+﻿生成启动时间为 2017/6/9 18:20:47。
+     1>项目“F:\vs\projetct\工程设计\工程设计\工程设计.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(139): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(140): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(167): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(188): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(189): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(216): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(238): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(239): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(122): warning C4101: “uf1”: 未引用的局部变量
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(288): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(289): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(312): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(336): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(344): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(330): warning C4101: “stream”: 未引用的局部变量
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(332): warning C4101: “name”: 未引用的局部变量
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(364): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(362): warning C4101: “name”: 未引用的局部变量
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(389): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(401): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(404): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(406): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(409): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(439): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(482): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(486): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(499): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(620): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(624): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(628): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(633): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(663): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(692): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(700): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(740): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(784): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(792): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(795): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(829): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(838): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(843): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(851): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(861): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(864): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(871): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(946): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(949): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(959): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(999): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1003): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1004): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1011): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1032): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1036): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1037): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1044): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1107): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1200): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1082): warning C4101: “fp”: 未引用的局部变量
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1077): warning C4101: “file”: 未引用的局部变量
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1078): warning C4101: “bo2”: 未引用的局部变量
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1078): warning C4101: “bo1”: 未引用的局部变量
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1264): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1265): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs\projetct\工程设计\工程设计\源.cpp(1289): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\vs\vc\include\stdio.h(283) : 参见“scanf”的声明
+       Link:
+         F:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs\projetct\工程设计\Debug\工程设计.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\vs\projetct\工程设计\Debug\工程设计.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs\projetct\工程设计\Debug\工程设计.lib" /MACHINE:X86 "Debug\源.obj"
+         工程设计.vcxproj -> F:\vs\projetct\工程设计\Debug\工程设计.exe
+     1>已完成生成项目“F:\vs\projetct\工程设计\工程设计\工程设计.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.38
